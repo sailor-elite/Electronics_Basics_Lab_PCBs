@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "wzmacniacz wspolny emiter.kicad_pro",
+    "filename": "wzmacniacz operacyjny.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -486,7 +486,7 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "./",
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
@@ -609,6 +609,11 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "d6fe7314-9fda-4ec9-b371-faf343d98d4b",
+      "Root"
+    ]
+  ],
   "text_variables": {}
 }
